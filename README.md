@@ -171,6 +171,36 @@ terraform destroy -auto-approve
 
 ---
 
+## Route
+
+![Route](screenshots/Route.png)
+
+---
+
+## IGW
+
+![IGW](screenshots/IGW.png)
+
+---
+
+## NAT
+
+![NAT](screenshots/NAT.png)
+
+---
+
+## Eip
+
+![Eip](screenshots/Eip.png)
+
+---
+
+## NetworkACL
+
+![NetworkACL](screenshots/NetworkACL.png)
+
+---
+
 ## Destroy
 
 ![Destroy](screenshots/Destroy.png)
