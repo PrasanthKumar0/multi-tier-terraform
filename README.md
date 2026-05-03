@@ -171,6 +171,13 @@ terraform destroy -auto-approve
 
 ---
 
+## Destroy
+
+![Destroy](screenshots/Destroy.png)
+
+
+---
+
 # 📌 Key Features
 
 * Infrastructure as Code using Terraform
