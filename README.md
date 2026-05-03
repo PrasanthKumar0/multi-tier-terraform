@@ -165,9 +165,9 @@ terraform destroy -auto-approve
 
 ---
 
-## Final Website Output
+## Code
 
-![Website](screenshots/website-output.png)
+![Code](screenshots/Code.png)
 
 ---
 
