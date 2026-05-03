@@ -17,7 +17,7 @@ The architecture includes:
 * Auto Scaling Group (ASG)
 * Launch Template
 * RDS MySQL Database
-* Terraform Outputs & Variables
+* Terraform Outputs 
 
 ---
 
@@ -59,7 +59,6 @@ The architecture includes:
 | asg.tf       | Launch Template & ASG       |
 | rds.tf       | RDS database setup          |
 | outputs.tf   | Terraform outputs           |
-| variables.tf | Variables configuration     |
 
 ---
 
