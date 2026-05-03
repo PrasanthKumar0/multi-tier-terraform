@@ -23,7 +23,7 @@ The architecture includes:
 
 # 🏗️ Architecture Diagram
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture](screenshots/architecture-diagram.png)
 
 ---
 
